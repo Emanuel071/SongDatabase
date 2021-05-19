@@ -1,0 +1,8 @@
+hey,you,k,k,k,1.06
+jgh,trt,lkj,lkj,lkj,13.03
+hello,hawaii,lkj,lk,lkj,80.2
+qwe,ref,lkj,lkj,lkj,2.03
+uyt,dfdfd,lkj,lkj,lkj,12.03
+vxx,gffg,lkj,lkj,lkj,11.03
+dsa,jlj,lkj,lkj,hey,9.03
+just,cause,i,can,None,1.06
